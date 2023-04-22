@@ -1,0 +1,36 @@
+@media (max-width: 1100px){
+    #banner {
+        padding-top: 50px;
+    }
+
+    #banner #redes-sociales {
+        margin: auto;
+    }
+
+    #banner .boton-computer {
+        display: none;
+    }
+
+    #banner .boton-cellphone {
+        display: block;
+    }
+
+    #banner #boton a {
+        margin: auto;
+        margin-top: 10px;
+    }
+
+    #banner #logo {
+        margin-top: 30px;
+    }
+}
+
+@media (max-width: 800px){
+    #shop {
+        margin-top: 477px;
+    }
+
+    .carousel-box {
+        display: none;
+    }
+}
